@@ -87,7 +87,7 @@ $ ls ~/projects | wc -l    →  50   # full list: github.com/saikatdutta1991?tab
 # reach me through any of these
 ```
 
-- 🌐 GitHub — [github.com/saikatdutta1991](https://github.com/saikatdutta1991)
+- 🌐 GitHub — [github.com/saikatdutta1991](https://github.com/saikatdutta1991/saikatdutta1991)
 - 💼 LinkedIn — [saikat-dutta-6481ba5b](https://www.linkedin.com/in/saikat-dutta-6481ba5b/)
 - 📍 Bangalore, India · Software Engineer @ LiftOff LLC
 - ✅ Open to opportunities
