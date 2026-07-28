@@ -32,7 +32,7 @@ utilities, a tiny PHP framework. I care about clean APIs, real-time
 systems, and code that reads well the second time around.
 
 ```text
-# focus     : Node.js · NestJS · microservices · real-time
+# focus     : Node.js · NestJS · microservices · real-time · Java/Kotlin · Spring-Boot
 # also into : PHP, Android/Kotlin, developer tooling, IoT tinkering
 # available : yes → let's build something
 ```
